@@ -3,7 +3,7 @@ import datetime
 import time
 import json
 
-token = "78a0654f78a0654f78a0654f4b78d897d2778a078a0654f19b7d334eecc4a3b87fff1e6"
+token = " "
 version = '5.131'
 url = 'https://api.vk.com/method/'
 public = input("Введите короткое имя сообщества: ")
